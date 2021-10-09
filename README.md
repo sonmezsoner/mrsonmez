@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mrsonmez
+- 🌱 I’m currently learning Python,vue.js
+- 📫 How to reach me ichbinsirpak@gmail.com
