@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mrsonmez
-- 🌱 I’m currently learning Python,vue.js
+- 🌱 I’m currently learning React.js,Node.js
 - 📫 How to reach me ichbinsirpak@gmail.com
