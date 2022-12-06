@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mrsonmez
-- 🌱 I’m currently learning React-native,Node.js
+- 🌱 I’m currently creating apps on React-native.
 - 📫 How to reach me ichbinsirpak@gmail.com
